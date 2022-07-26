@@ -1,2 +1,2 @@
 # rpg
-my Spinner Version
+My Spinner Version
